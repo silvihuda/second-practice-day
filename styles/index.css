@@ -1,0 +1,11 @@
+.external{
+    margin-bottom: 10px;
+    background-color: rgba(94, 53, 0, 0.53);
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px;
+}
+.change{
+    margin: 50px;
+    text-align: right;
+    border: 2px solid burlywood;
+}
